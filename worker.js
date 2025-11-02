@@ -1,6 +1,6 @@
 /*
  * ---------------------------------------------------------------
- * Configuration - FIRST COMMIT GH
+ * Configuration - FIRST COMMIT GH - 2
  * ---------------------------------------------------------------
  *
  * KRÄVER FÖRBEREDELSER I CLOUDFLARE DASHBOARD:
